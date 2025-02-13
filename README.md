@@ -1,7 +1,7 @@
 # Janitri
 This project is a backend API for managing users, patients, and heart rate data. It is built using Node.js, Express.js, and MongoDB, following RESTful principles.
 
--> Tech Stack
+Tech Stack :
 
 Backend: Node.js, Express.js
 
@@ -13,7 +13,7 @@ Authentication: Basic email-password validation (bcrypt.js)
 
 1 Install Dependencies
 
-npm install
+npm install 
 
  2 Configure Environment Variables
 
